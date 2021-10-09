@@ -1,4 +1,4 @@
-# PythonWebCrawler
+# Python Torrent Downloader
 This web crawler automatically fetches the torrent file based on a movie name and set it on download.
 
 Python Libraries used - requests, BeautifulSoup, Selenium
